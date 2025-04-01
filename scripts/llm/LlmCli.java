@@ -1,5 +1,3 @@
-package llm;
-
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //DEPS info.picocli:picocli:4.6.3
 //DEPS dev.langchain4j:langchain4j-google-ai-gemini:1.0.0-beta2
